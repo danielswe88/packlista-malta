@@ -3,6 +3,7 @@
 ## The essentials:
 - Pass
 - Plånbok
+- EU-kort
 
 ## Kläder:
 - Kalsonger
@@ -13,6 +14,15 @@
 - Jeans
 - Jeans-shorts
 - Badshorts 
+
+## I necessären
+- Tandkräm
+- Tandborste
+- Vax
+- Kam
+- Rakhyvel + lödder
+- Resorb
+- Alvedon / Ipren
 
 ## Träningskläder
 - Keps
@@ -27,3 +37,4 @@
 - Laddare dator
 - Datormus + musmatta
 - Ström-adapter (UK-variant)
+- Hörlurar
