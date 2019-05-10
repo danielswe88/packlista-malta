@@ -14,6 +14,7 @@
 - Jeans
 - Jeans-shorts
 - Badshorts 
+- Solbrillor
 
 ## I necessären
 - Tandkräm
