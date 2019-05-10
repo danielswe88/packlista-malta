@@ -23,6 +23,8 @@
 - Tandborste
 - Vax
 - Kam
+- Deo
+- Parfym
 - Rakhyvel + lödder
 - Resorb
 - Alvedon / Ipren
@@ -41,3 +43,10 @@
 - Datormus + musmatta
 - Ström-adapter (UK-variant)
 - Hörlurar
+- Öronproppar
+
+## 📱 I mobilen
+- Spel
+- Spotifylistor offline
+- Turist-app malta
+- Nerladdade online tutorials
