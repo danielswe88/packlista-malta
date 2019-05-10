@@ -1,11 +1,11 @@
-# Packlista Malta 2019
+# Packlista Malta 2019 💃 🕺🏻
 
-## The essentials:
+## The essentials 💰
 - Pass
 - Plånbok
 - EU-kort
 
-## Kläder:
+## Kläder 👖 👕
 - Kalsonger
 - Strumpor
 - T-shirts
@@ -16,7 +16,7 @@
 - Badshorts 
 - Solbrillor
 
-## I necessären
+## I necessären 🧰
 - Tandkräm
 - Tandborste
 - Vax
@@ -25,13 +25,13 @@
 - Resorb
 - Alvedon / Ipren
 
-## Träningskläder
+## Träningskläder 🏃
 - Keps
 - Träningsshorts
 - Träningströja
 - Träningsskor 
 
-## Elektronik
+## Elektronik 💻
 - Dator
 - Telefon
 - Laddare telefon
