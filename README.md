@@ -4,6 +4,8 @@
 - Pass
 - Plånbok
 - EU-kort
+- Snus
+- Kondomer (Tobbe)
 
 ## 👕 Kläder
 - Kalsonger
