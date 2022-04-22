@@ -1,14 +1,13 @@
-# 💃 🕺🏻✈️ Packlista Malta 2019
+# 💃 🕺🏻✈️ Packlista Malta 2022
 
 ## 💰The essentials
 - Pass
 - Plånbok
 - EU-kort
 - Snus
-- Kondomer (Tobbe)
 
 ## 👕 Kläder
-- Kalsonger
+- Underkläder
 - Strumpor
 - T-shirts
 - Skjorta
