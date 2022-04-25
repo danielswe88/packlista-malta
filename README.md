@@ -5,6 +5,7 @@
 - Plånbok
 - EU-kort
 - Snus
+- Ansiktsmask
 
 ## 👕 Kläder
 - Underkläder
