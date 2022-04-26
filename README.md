@@ -28,7 +28,7 @@
 - Rakhyvel + lödder
 - Resorb
 - Alvedon / Ipren
-- Solskyddsmedel
+- Solskyddsmedel 75ml
 
 ## 🏃 Träningskläder
 - Keps
