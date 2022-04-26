@@ -28,6 +28,7 @@
 - Rakhyvel + lödder
 - Resorb
 - Alvedon / Ipren
+- Solskyddsmedel
 
 ## 🏃 Träningskläder
 - Keps
@@ -50,3 +51,4 @@
 - Spotifylistor offline
 - Turist-app malta
 - Nerladdade online tutorials
+- eCabs taxi app
