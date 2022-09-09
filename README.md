@@ -32,6 +32,7 @@
 - Resorbw
 - Alvedon / Ipren
 - Solskyddsmedel 75ml
+- Tabletter mot åksjuka / sjösjuka
 
 ## 🏃 Träningskläder
 
