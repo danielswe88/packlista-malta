@@ -58,4 +58,4 @@
 - Spotifylistor offline
 - Turist-app malta
 - Nerladdade online tutorials
-- eCabs taxi app
+- [Bolt taxi app »](https://bolt.eu/?af_js_web=true&af_ss_ver=2&pid=googleadwords_int&c=se_brand_search&page_name=/sv/)
