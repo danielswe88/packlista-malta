@@ -1,6 +1,7 @@
 # 💃 🕺🏻✈️ Packlista Malta 2022
 
 ## 💰The essentials
+
 - Pass
 - Plånbok
 - EU-kort
@@ -8,6 +9,7 @@
 - Ansiktsmask
 
 ## 👕 Kläder
+
 - Underkläder
 - Strumpor
 - T-shirts
@@ -15,10 +17,11 @@
 - Hoodie
 - Jeans
 - Jeans-shorts
-- Badshorts 
+- Badshorts
 - Solbrillor
 
 ## 🧰 I necessären
+
 - Tandkräm
 - Tandborste
 - Vax
@@ -26,17 +29,19 @@
 - Deo
 - Parfym
 - Rakhyvel + lödder
-- Resorb
+- Resorbw
 - Alvedon / Ipren
 - Solskyddsmedel 75ml
 
 ## 🏃 Träningskläder
+
 - Keps
 - Träningsshorts
 - Träningströja
-- Träningsskor 
+- Träningsskor
 
 ## 💻 Elektronik
+
 - Dator
 - Telefon
 - Laddare telefon
@@ -47,6 +52,7 @@
 - Öronproppar
 
 ## 📱 I mobilen
+
 - Spel
 - Spotifylistor offline
 - Turist-app malta
