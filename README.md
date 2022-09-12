@@ -1,6 +1,6 @@
-# 💃 🕺🏻✈️ Packlista Malta 2022
+# 💃 🕺🏻 ✈️ Packlista Malta 2022
 
-## 💰The essentials
+## 💰 The essentials
 
 - Pass
 - Plånbok
@@ -29,7 +29,7 @@
 - Deo
 - Parfym
 - Rakhyvel + lödder
-- Resorbw
+- Resorb
 - Alvedon / Ipren
 - Solskyddsmedel 75ml
 - Tabletter mot åksjuka / sjösjuka
