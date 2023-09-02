@@ -28,6 +28,7 @@
 
 - Tandkräm
 - Tandborste
+- Tvål / schampo
 - Kam
 - Resorb
 - Alvedon / Ipren
