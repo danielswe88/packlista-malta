@@ -1,44 +1,50 @@
-# 💃 🕺🏻 ✈️ Packlista Malta 2022
+# 💃 🕺🏻 ✈️ Packlista Malta 2023
 
 ## 💰 The essentials
 
 - Pass
-- Plånbok
+- Plånbok (pengar)
 - EU-kort
 - Snus
-- Ansiktsmask
+- Covid-mask
 
 ## 👕 Kläder
 
 - Underkläder
 - Strumpor
-- T-shirts
+- T-shirts / toppar
 - Skjorta
 - Hoodie
 - Jeans
 - Jeans-shorts
-- Badshorts
-- Solbrillor
+- Badshorts / Bikini / Baddräkt
+- Solglasögon
+- Skor / tofflor
+- Extra väska / handväska
+- Klänning / kjol
+- Keps / hatt
 
 ## 🧰 I necessären
 
 - Tandkräm
 - Tandborste
-- Vax
 - Kam
-- Deo
-- Parfym
-- Rakhyvel + lödder
 - Resorb
 - Alvedon / Ipren
 - Solskyddsmedel 75ml
 - Tabletter mot åksjuka / sjösjuka
+- Deo
+- Parfym
+- Smink
+- Sminkborttagning / ansiktsrengöring
+- Hårvax
+- Rakhyvel + lödder
 
 ## 🏃 Träningskläder
 
 - Keps
 - Träningsshorts
-- Träningströja
+- Träningströja / sporttopp
 - Träningsskor
 
 ## 💻 Elektronik
@@ -47,6 +53,7 @@
 - Telefon
 - Laddare telefon
 - Laddare dator
+- Laddare Apple Watch
 - Datormus + musmatta
 - Ström-adapter (UK-variant)
 - Hörlurar
@@ -56,6 +63,9 @@
 
 - Spel
 - Spotifylistor offline
+- Podcasts offline
 - Turist-app malta
 - Nerladdade online tutorials
-- [Bolt taxi app »](https://bolt.eu/?af_js_web=true&af_ss_ver=2&pid=googleadwords_int&c=se_brand_search&page_name=/sv/)
+- [eCabs taxi app »](https://apps.apple.com/mk/app/ecabs/id777550235)
+- [112mt »](https://apps.apple.com/mt/app/112mt/id1199470896)
+- [Wolt food delivery »](https://apps.apple.com/it/app/wolt-delivery-food-and-more/id943905271)
