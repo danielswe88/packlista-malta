@@ -47,6 +47,7 @@
 - Träningsshorts
 - Träningströja / sporttopp
 - Träningsskor
+- Träningsstrumpor
 
 ## 💻 Elektronik
 
